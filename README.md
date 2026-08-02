@@ -77,13 +77,6 @@ Repository
 
 https://github.com/Ashraf-Alam/Smart-Farm-AI
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashraf-Alam&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf-Alam&layout=compact)
 
 ---
 
@@ -99,7 +92,7 @@ https://github.com/Ashraf-Alam
 
 Email
 
-your_email@example.com
+ashraf23usa@gmail.com
 
 ---
 ⭐ Thank you for visiting my profile!
